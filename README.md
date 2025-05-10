@@ -1,5 +1,5 @@
 
-# 🔥Navigation Instruction Generation
+# 🔥 Navigation Instruction Generation
 ## 1. Installation
 ~~~
 conda create -n r1-v python=3.11 
