@@ -43,7 +43,7 @@ Instead of training from scratch according to the previous steps, we have open-s
 * https://huggingface.co/instruction-gen/QWEN2.5-VL-7B-1k-SFT-GRPO-format-meteor-llm
 * ...
 
-![](/assest/trained_models.png)
+![](/assets/trained_models.png)
 
 # ⭐ Action Interpreter
 The action interpreter is based on LLaMa-3-8B-Instruct.
